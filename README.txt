@@ -1,5 +1,1 @@
-My Collection Version 2.1.0
-
-Visible version label added to the top header. No storage keys or catalogue data have been changed.
-
-Upload index.html to the root of your existing GitHub repository, replacing the previous file. Back up your collection JSON first.
+My Collection v2.2 — replace index.html in GitHub repo. Back up JSON first. Use Fill missing movie details, review matches and apply. Apple Search API needs internet and is rate limited. UK BBFC age ratings are NOT inferred. Existing entries are preserved.
